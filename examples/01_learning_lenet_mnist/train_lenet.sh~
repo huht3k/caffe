@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+set -e
+
+/home/huht/caffe/build/tools/caffe train --solver=/home/huht/caffe/examples/mnist/lenet_solver.prototxt $@
