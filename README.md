@@ -14,3 +14,7 @@
         input data and downloading data shell script:  data/mnist
         net config, solver, lmdb, training shell script, trained model ==>   01_learning_lenet_mnists
         
+     detection.ipynb     <== modified from caffe/examples/detection.ipynb after panda updating
+        df.sort(), df.order()  ==> df.sort_values()
+       
+        
